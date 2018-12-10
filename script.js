@@ -136,8 +136,6 @@ pNetAnnualSalary.appendChild(inputNetAnnualSalary)
 
 
 grossMonthlySalary.addEventListener("keypress", function (event) {
-    if (grossMonthlySalary)
-    }
 }, false)
 netMonthlySalary.addEventListener("keypress", function (event){
 
